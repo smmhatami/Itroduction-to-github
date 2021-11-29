@@ -1,5 +1,6 @@
 # Itroduction to github
 By : smmhatami
+Great thanks to : mhbahmani
 ## Topics
 
 ### getting familiar
