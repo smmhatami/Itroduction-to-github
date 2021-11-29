@@ -17,5 +17,12 @@ By : smmhatami
 * Creating and maerging a pull request
 
 ### Project page options
-* summary on project tabs usages
-* 
+* Summary on project tabs usages
+
+## Useful links
+### Introduction to git: 
+* https://docs.github.com/en/get-started/using-git/about-git
+* https://git-scm.com/doc
+
+### Using Issue and Pull Request in practice
+* https://lab.github.com/githubtraining/introduction-to-github
