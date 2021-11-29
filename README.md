@@ -1,21 +1,21 @@
-### Itroduction to github
-By : smm-Hatami
+# Itroduction to github
+By : smmhatami
 ## Topics
 
-# getting familiar
+### getting familiar
 * What is github?
 * How to join github?
 
-# getting started
+### getting started
 * Uploading a project to github
 * Project page tabs and options
 
-# Contributing to projects
+### Contributing to projects
 * Creating and resolving an issue
 * Forking a project
 * Cloning project to local PC 
 * Creating and maerging a pull request
 
-# Project page options
+### Project page options
 * summary on project tabs usages
 * 
